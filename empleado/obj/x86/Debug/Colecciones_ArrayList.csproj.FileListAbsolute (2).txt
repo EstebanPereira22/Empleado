@@ -1,0 +1,7 @@
+C:\Users\chnop\Desktop\clases bios-- C#\EMPLEADO\empleado\obj\x86\Debug\Colecciones_ArrayList.csprojResolveAssemblyReference.cache
+C:\Users\chnop\Desktop\clases bios-- C#\EMPLEADO\empleado\bin\Debug\empleado.exe
+C:\Users\chnop\Desktop\clases bios-- C#\EMPLEADO\empleado\bin\Debug\empleado.pdb
+C:\Users\chnop\Desktop\clases bios-- C#\EMPLEADO\empleado\obj\x86\Debug\empleado.exe
+C:\Users\chnop\Desktop\clases bios-- C#\EMPLEADO\empleado\obj\x86\Debug\empleado.pdb
+C:\Users\chnop\Desktop\clases bios-- C#\EMPLEADO CON LIST\empleado\obj\x86\Debug\empleado.exe
+C:\Users\chnop\Desktop\clases bios-- C#\EMPLEADO CON LIST\empleado\obj\x86\Debug\empleado.pdb
